@@ -40,7 +40,7 @@ export function Header() {
           variants={textVariants}
         >
           <h1 className="text-center lg:text-left text-white/80">{`Hello I'm `}</h1>
-          <h1 className="text-accent">Ighure Oghenetega</h1>
+          <h1 className="text-accent text-center">Ighure Oghenetega</h1>
         </motion.div>
         <motion.p
           className="text-base text-center lg:text-left text-white/80"
