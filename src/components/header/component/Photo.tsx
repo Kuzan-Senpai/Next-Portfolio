@@ -23,8 +23,8 @@ export function Photo() {
           className="w-[290px] h-[290px] lg:w-[498px] lg:h-[498px] mix-blend-lighten soft-edge absolute"
         >
           <Image
-            src="/profile.jpg"
-            alt="photo.png"
+            src="/profile.JPG"
+            alt="photo.JPG"
             fill
             quality={100}
             priority

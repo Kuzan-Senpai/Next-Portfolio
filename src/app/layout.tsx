@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     title: "Ighure Oghenetega | Frontend Developer",
     description:
       "Explore my portfolio featuring cutting-edge frontend projects.",
-    url: "/",
+    url: "https://kuzan-portfolio.vercel.app/",
     siteName: "Ighure Oghenetega Portfolio",
     images: [
       {
