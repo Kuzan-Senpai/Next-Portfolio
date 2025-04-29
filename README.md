@@ -107,9 +107,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 **Ighure Oghenetega**
 
 - Portfolio: [kuzan-portfolio.vercel.app](https://kuzan-portfolio.vercel.app/)
-- Email: [](oghenetegafrancis@gmail.com)
-- GitHub: [](https://github.com/[Kuzan-Senpai](url))
-- LinkedIn: [](https://www.linkedin.com/in/ighureoghenetega/)
--  X: [](https://x.com/kuzansenpaii)
+- Email: [oghenetegafrancis@gmail.com](oghenetegafrancis@gmail.com)
+- GitHub: [Github](https://github.com/[Kuzan-Senpai](url))
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ighureoghenetega/)
+-  X: [X](https://x.com/kuzansenpaii)
 
 ---
